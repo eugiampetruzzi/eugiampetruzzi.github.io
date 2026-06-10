@@ -36,19 +36,8 @@ cv:
           - Robert W. Woodruff Full-Tuition Scholar
 
     Research Experience:
-      - company: National Institute of Mental Health
-        position: Intramural Research Training Award (IRTA) Fellow
-        location: Bethesda, MD
-        start_date: 2023
-        end_date: 2025
-        summary: "Section on Development and Affective Neuroscience. PI: Daniel S. Pine, MD."
-
-      - company: Emory University School of Medicine
-        position: Head Research Assistant
-        location: Atlanta, GA
-        start_date: 2021
-        end_date: 2023
-        summary: "Treatment Resistant Depression Program. PIs: Allison LoPilato, PhD; William McDonald, MD; Rachel Hershenberg, PhD."
+      - bullet: "**Intramural Research Training Award (IRTA) Fellow** — National Institute of Mental Health, Bethesda, MD (2023–2025). Section on Development and Affective Neuroscience; PI: Daniel S. Pine, MD."
+      - bullet: "**Head Research Assistant** — Treatment Resistant Depression Program, Emory University School of Medicine, Atlanta, GA (2021–2023). PIs: Allison LoPilato, PhD; William McDonald, MD; Rachel Hershenberg, PhD."
 
     Honors and Awards:
       - title: National Science Foundation Graduate Research Fellowship (NSF-GRFP)
@@ -95,90 +84,22 @@ cv:
         awarder: University College London (UCL)
 
     Conference Presentations:
-      - title: Autonomic and limbic system calibration to early life stress predicts risk for depressive symptoms in adolescence
-        authors:
-          - "Giampetruzzi, E., Antonacci, C., Bahk, J. R., Buthmann, J. L., Kircanski, K., & Gotlib, I. H."
-        publisher: FLUX Society for Developmental Cognitive Neuroscience Annual Congress, La Jolla, CA (poster and flash-talk)
-        releaseDate: 2026
-      - title: "Childhood household instability and white matter development: A normative modeling approach"
-        authors:
-          - "Lentz, J. H., Giampetruzzi, E., Zugman, A., Hardi, F. A., Goetschius, L. G., Tillem, S., Huntley, E. D., Pine, D. S., Mitchell, C., Hyde, L. W., & Monk, C. S."
-        publisher: FLUX Society for Developmental Cognitive Neuroscience Annual Congress, La Jolla, CA (poster)
-        releaseDate: 2026
-      - title: Default Mode–Salience Network circuitry in adolescence as a neural pathway linking early life stress to depression risk in young adulthood
-        authors:
-          - "Bahk, J. R., Giampetruzzi, E., Lee, Y., Antonacci, C., & Gotlib, I. H."
-        publisher: FLUX Society for Developmental Cognitive Neuroscience Annual Congress, La Jolla, CA (poster)
-        releaseDate: 2026
-      - title: Higher levels of peripheral inflammation in adolescence increase risk for anxiety and depression diagnoses in young adulthood through alterations in fronto-striatal functional connectivity
-        authors:
-          - "Uy, J. P., Yuan, J. P., Lee, Y., Antonacci, C., Giampetruzzi, E., & Gotlib, I. H."
-        publisher: FLUX Society for Developmental Cognitive Neuroscience Annual Congress, La Jolla, CA (symposium)
-        releaseDate: 2026
-      - title: Fronto-amygdala connectivity, inflammation, and affective reactivity to daily stress in adolescents
-        authors:
-          - "Giampetruzzi, E., Lee, Y., & Gotlib, I. H."
-        publisher: 31st Annual Wisconsin Symposium on Emotion, Madison, WI
-        releaseDate: 2026
-      - title: Neural responses to error processing predict treatment outcomes in youth with anxiety
-        authors:
-          - "Kim, K. Y., Haller, S. P., Giampetruzzi, E., Poe, A., Cardinale, E. M., Kircanski, K., Brotman, M. A., Pine, D. S., & Khosravi, P."
-        publisher: 31st Annual Wisconsin Symposium on Emotion, Madison, WI
-        releaseDate: 2026
-      - title: Temporal signal-to-noise ratio drives age effect in sgACC connectivity
-        authors:
-          - "Lentz, J. H., Giampetruzzi, E., Nielson, D. M., Pereira, F., Pine, D. S., & Zugman, A."
-        publisher: Society of Biological Psychiatry Annual Meeting, New York, NY
-        releaseDate: 2026
-      - title: Adolescent subgenual anterior cingulate cortex developmental trajectory in ABCD
-        authors:
-          - "Lentz, J. H., Giampetruzzi, E., Nielson, D. M., Pine, D. S., Pereira, F., & Zugman, A."
-        publisher: Society for Neuroscience Annual Meeting, San Diego, CA
-        releaseDate: 2025
-      - title: "Multivariate analysis of physical activity, sleep, and clinical symptoms: Associations with cortical thickness in youth"
-        authors:
-          - "Giampetruzzi, E., Khosravi, P., Delecourt, B., Lakhlani, D., Kossowsky, J., Winkler, A. M., Zugman, A., Kircanski, K., & Pine, D."
-        publisher: Association for Behavioral and Cognitive Therapies (ABCT) 58th Annual Convention, Philadelphia, PA
-        releaseDate: 2024
-      - title: "PROMISE: Promoting resilience and mental health in educational settings for early childhood"
-        authors:
-          - "Domitrovich, C. E., Charlot-Swilley, D., Gavina, A., Curtis, L., Jones Harden, B., Li, Y., Zuskov, S. F., Hayes, K., & Giampetruzzi, E."
-        publisher: ACF National Research Conference on Early Childhood, Arlington, VA
-        releaseDate: 2024
-      - title: The impact of adverse childhood experiences on substance abuse in adult patients with treatment resistant depression (TRD)
-        authors:
-          - "Giampetruzzi, E., Rice, H., Mandell, A., Tsygankova, V., Laszcz, J., Tan, A. C., McDonald, W. M., Riva Posse, P., Hermida, A. P., Crowell, A., & Hershenberg, R."
-        publisher: Association for Behavioral and Cognitive Therapies (ABCT) 57th Annual Convention, Seattle, WA
-        releaseDate: 2023
-      - title: Dosing and treatment outcomes of rTMS for treatment-resistant depressed older adults in a naturalistic outpatient clinic population
-        authors:
-          - "Tan, A. C., Hershenberg, R., Chatham, T., Giampetruzzi, E., Tsygankova, V., Job, G., Crowell, A., Riva Posse, P., McDonald, W. M., Kitay, B., & Hermida, A."
-        publisher: International Psychogeriatric Association (IPA) Conference, Lisbon, Portugal
-        releaseDate: 2023
-      - title: Tolerability and effectiveness of rTMS for geriatric patients with treatment-resistant depression in a naturalistic clinic setting
-        authors:
-          - "Tan, A. C., Giampetruzzi, E., Tsygankova, V., Hershenberg, R., Job, G. P., Crowell, A., Riva Posse, P., McDonald, W. M., Kitay, B. M., & Hermida, A. P."
-        publisher: The American Journal of Geriatric Psychiatry
-        releaseDate: 2023
-      - title: Childhood trauma and depression severity in patients with treatment resistant depression
-        authors:
-          - "Giampetruzzi, E., Tan, A. C., Riva Posse, P., Hermida, A. P., McDonald, W. M., Crowell, A., & Hershenberg, R."
-        publisher: 29th Annual UCLA Psychology Undergraduate Research Conference, Los Angeles, CA
-        releaseDate: 2022
+      - bullet: "Giampetruzzi, E., Antonacci, C., Bahk, J. R., Buthmann, J. L., Kircanski, K., & Gotlib, I. H. (2026). Autonomic and limbic system calibration to early life stress predicts risk for depressive symptoms in adolescence. *FLUX Society for Developmental Cognitive Neuroscience Annual Congress*, La Jolla, CA (poster and flash-talk)."
+      - bullet: "Lentz, J. H., Giampetruzzi, E., Zugman, A., Hardi, F. A., Goetschius, L. G., Tillem, S., Huntley, E. D., Pine, D. S., Mitchell, C., Hyde, L. W., & Monk, C. S. (2026). Childhood household instability and white matter development: A normative modeling approach. *FLUX Society for Developmental Cognitive Neuroscience Annual Congress*, La Jolla, CA (poster)."
+      - bullet: "Bahk, J. R., Giampetruzzi, E., Lee, Y., Antonacci, C., & Gotlib, I. H. (2026). Default Mode–Salience Network circuitry in adolescence as a neural pathway linking early life stress to depression risk in young adulthood. *FLUX Society for Developmental Cognitive Neuroscience Annual Congress*, La Jolla, CA (poster)."
+      - bullet: "Uy, J. P., Yuan, J. P., Lee, Y., Antonacci, C., Giampetruzzi, E., & Gotlib, I. H. (2026). Higher levels of peripheral inflammation in adolescence increase risk for anxiety and depression diagnoses in young adulthood through alterations in fronto-striatal functional connectivity. *FLUX Society for Developmental Cognitive Neuroscience Annual Congress*, La Jolla, CA (symposium)."
+      - bullet: "Giampetruzzi, E., Lee, Y., & Gotlib, I. H. (2026). Fronto-amygdala connectivity, inflammation, and affective reactivity to daily stress in adolescents. *31st Annual Wisconsin Symposium on Emotion*, Madison, WI."
+      - bullet: "Kim, K. Y., Haller, S. P., Giampetruzzi, E., Poe, A., Cardinale, E. M., Kircanski, K., Brotman, M. A., Pine, D. S., & Khosravi, P. (2026). Neural responses to error processing predict treatment outcomes in youth with anxiety. *31st Annual Wisconsin Symposium on Emotion*, Madison, WI."
+      - bullet: "Lentz, J. H., Giampetruzzi, E., Nielson, D. M., Pereira, F., Pine, D. S., & Zugman, A. (2026). Temporal signal-to-noise ratio drives age effect in sgACC connectivity. *Society of Biological Psychiatry Annual Meeting*, New York, NY."
+      - bullet: "Lentz, J. H., Giampetruzzi, E., Nielson, D. M., Pine, D. S., Pereira, F., & Zugman, A. (2025). Adolescent subgenual anterior cingulate cortex developmental trajectory in ABCD. *Society for Neuroscience Annual Meeting*, San Diego, CA."
+      - bullet: "Giampetruzzi, E., Khosravi, P., Delecourt, B., Lakhlani, D., Kossowsky, J., Winkler, A. M., Zugman, A., Kircanski, K., & Pine, D. (2024). Multivariate analysis of physical activity, sleep, and clinical symptoms: Associations with cortical thickness in youth. *Association for Behavioral and Cognitive Therapies (ABCT) 58th Annual Convention*, Philadelphia, PA."
+      - bullet: "Domitrovich, C. E., Charlot-Swilley, D., Gavina, A., Curtis, L., Jones Harden, B., Li, Y., Zuskov, S. F., Hayes, K., & Giampetruzzi, E. (2024). PROMISE: Promoting resilience and mental health in educational settings for early childhood. *ACF National Research Conference on Early Childhood*, Arlington, VA."
+      - bullet: "Giampetruzzi, E., Rice, H., Mandell, A., Tsygankova, V., Laszcz, J., Tan, A. C., McDonald, W. M., Riva Posse, P., Hermida, A. P., Crowell, A., & Hershenberg, R. (2023). The impact of adverse childhood experiences on substance abuse in adult patients with treatment resistant depression (TRD). *Association for Behavioral and Cognitive Therapies (ABCT) 57th Annual Convention*, Seattle, WA."
+      - bullet: "Tan, A. C., Hershenberg, R., Chatham, T., Giampetruzzi, E., Tsygankova, V., Job, G., Crowell, A., Riva Posse, P., McDonald, W. M., Kitay, B., & Hermida, A. (2023). Dosing and treatment outcomes of rTMS for treatment-resistant depressed older adults in a naturalistic outpatient clinic population. *International Psychogeriatric Association (IPA) Conference*, Lisbon, Portugal."
+      - bullet: "Tan, A. C., Giampetruzzi, E., Tsygankova, V., Hershenberg, R., Job, G. P., Crowell, A., Riva Posse, P., McDonald, W. M., Kitay, B. M., & Hermida, A. P. (2023). Tolerability and effectiveness of rTMS for geriatric patients with treatment-resistant depression in a naturalistic clinic setting. *The American Journal of Geriatric Psychiatry*."
+      - bullet: "Giampetruzzi, E., Tan, A. C., Riva Posse, P., Hermida, A. P., McDonald, W. M., Crowell, A., & Hershenberg, R. (2022). Childhood trauma and depression severity in patients with treatment resistant depression. *29th Annual UCLA Psychology Undergraduate Research Conference*, Los Angeles, CA."
 
     Teaching Experience:
-      - company: University of Michigan Summer Debate Institutes
-        position: Senior Instructor
-        location: Ann Arbor, MI
-        start_date: 2020
-        end_date: 2026
-      - company: Barkley Forum for Debate, Emory University
-        position: Public Speaking Instructor
-        location: Atlanta, GA
-        start_date: 2023
-        end_date: 2025
-      - company: Economics-Mathematics Department, Emory University
-        position: Teaching Advisor
-        location: Atlanta, GA
-        start_date: 2020
-        end_date: 2021
+      - bullet: "**Senior Instructor** — University of Michigan Summer Debate Institutes (2020–2026)."
+      - bullet: "**Public Speaking Instructor** — Barkley Forum for Debate, Emory University (2023–2025)."
+      - bullet: "**Teaching Advisor** — Economics-Mathematics Department, Emory University (2020–2021)."
