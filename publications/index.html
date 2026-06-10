@@ -10,7 +10,7 @@
         "description": "Peer-reviewed publications, manuscripts under review, and preregistrations, in reverse chronological order. An asterisk (*) denotes shared first authorship.",
         "headline": "publications",
         
-        "sameAs": ["https://github.com/eugiampetruzzi","https://bsky.app/profile/eugiampetruzzi.bsky.social","https://orcid.org/0009-0001-0237-0107"],
+        "sameAs": ["https://github.com/eugiampetruzzi","https://bsky.app/profile/eugiampetruzzi.bsky.social","https://orcid.org/0009-0001-0237-0107","https://scholar.google.com/citations?user=AWS1_uAAAAAJ","https://www.linkedin.com/in/giampetruzzi"],
         
         "name": "Eugenia Giampetruzzi",
         "@context": "https://schema.org"
@@ -151,6 +151,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0001-0237-0107", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=AWS1_uAAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/giampetruzzi", "_blank");
         },
       },{
         id: 'social-rss',
