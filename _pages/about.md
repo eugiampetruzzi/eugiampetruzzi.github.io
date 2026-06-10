@@ -62,9 +62,12 @@ My research uses naturalistic data (medical records, wearable devices, experienc
     "Neuroimaging"
   ],
   "sameAs": [
+    "https://scholar.google.com/citations?user=AWS1_uAAAAAJ",
+    "https://www.linkedin.com/in/giampetruzzi/",
+    "https://psychology.stanford.edu/people/eugenia-giampetruzzi-0",
+    "https://orcid.org/0009-0001-0237-0107",
     "https://github.com/eugiampetruzzi",
-    "https://bsky.app/profile/eugiampetruzzi.bsky.social",
-    "https://orcid.org/0009-0001-0237-0107"
+    "https://bsky.app/profile/eugiampetruzzi.bsky.social"
   ]
 }
 </script>
