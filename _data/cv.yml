@@ -1,0 +1,147 @@
+cv:
+  name: Eugenia Giampetruzzi
+  label: PhD Student in Affective Science, Stanford University
+  email: eugiampe@stanford.edu
+  location: Stanford, CA
+  image: ""
+  summary: >
+    PhD student in Affective Science at Stanford University and NSF Graduate Research Fellow studying
+    wearables, passive sensing, and neuroimaging to understand risk for depression and anxiety across adolescence.
+
+  social_networks:
+    - network: GitHub
+      username: eugiampetruzzi
+
+  sections:
+    Education:
+      - institution: Stanford University
+        location: Stanford, CA
+        url: https://psychology.stanford.edu/
+        area: Affective Science (PhD); Minor in Biomedical Data Science, School of Medicine
+        studyType: PhD
+        start_date: 2025
+        end_date: present
+        highlights:
+          - National Science Foundation Graduate Research Fellow
+          - "Advisor: Ian H. Gotlib, PhD"
+
+      - institution: Emory University
+        location: Atlanta, GA
+        url: https://www.emory.edu/
+        area: Psychology
+        studyType: BA
+        start_date: 2019
+        end_date: 2023
+        score: "GPA: 3.98/4.0"
+        highlights:
+          - Summa Cum Laude; Highest Honors, Department of Psychology
+          - Phi Beta Kappa
+          - Robert W. Woodruff Full-Tuition Scholar
+
+    Research Experience:
+      - company: National Institute of Mental Health
+        position: Intramural Research Training Award (IRTA) Fellow
+        location: Bethesda, MD
+        start_date: 2023
+        end_date: 2025
+        summary: "Section on Development and Affective Neuroscience. PI: Daniel S. Pine, MD."
+
+      - company: Emory University School of Medicine
+        position: Head Research Assistant
+        location: Atlanta, GA
+        start_date: 2021
+        end_date: 2023
+        summary: "Treatment Resistant Depression Program. PIs: Allison LoPilato, PhD; William McDonald, MD; Rachel Hershenberg, PhD."
+
+    Honors and Awards:
+      - title: National Science Foundation Graduate Research Fellowship (NSF-GRFP)
+        date: 2025
+        awarder: National Science Foundation
+        summary: 2025–2030
+      - title: Travel Award
+        date: 2026
+        awarder: FLUX Society for Developmental Cognitive Neuroscience
+      - title: Travel Award
+        date: 2026
+        awarder: University of Wisconsin Symposium on Emotion
+      - title: Robert W. Woodruff Full-Tuition Scholarship
+        date: 2019
+        awarder: Emory University
+        summary: 2019–2023
+      - title: Phi Beta Kappa
+        date: 2023
+        awarder: Emory University
+      - title: Highest Honors, Department of Psychology
+        date: 2023
+        awarder: Emory University
+      - title: Dean's List
+        date: 2019
+        awarder: Emory University
+        summary: 2019–2023
+      - title: Debater of the Year
+        date: 2023
+        awarder: Emory University
+        summary: 2021–2023
+      - title: Debater of the Year & Top Speaker
+        date: 2023
+        awarder: American Debate Association
+        summary: Debater of the Year (2022 & 2023); Top Speaker (2023)
+      - title: Top Speaker
+        date: 2023
+        awarder: National Debate Tournament
+        summary: 2022 & 2023
+      - title: Julia Burke Award for Character and Excellence in Debate
+        date: 2023
+        awarder: American Debate Association
+      - title: Study Abroad Scholarship
+        date: 2022
+        awarder: University College London (UCL)
+
+    Conference Presentations:
+      - title: Autonomic and limbic system calibration to early life stress predicts risk for depressive symptoms in adolescence
+        authors:
+          - "Giampetruzzi, E., Antonacci, C., Bahk, J. R., Buthmann, J. L., Kircanski, K., & Gotlib, I. H."
+        publisher: FLUX Society for Developmental Cognitive Neuroscience Annual Congress, La Jolla, CA (poster and flash-talk)
+        releaseDate: 2026
+      - title: Fronto-amygdala connectivity, inflammation, and affective reactivity to daily stress in adolescents
+        authors:
+          - "Giampetruzzi, E., Lee, Y., & Gotlib, I. H."
+        publisher: 31st Annual Wisconsin Symposium on Emotion, Madison, WI
+        releaseDate: 2026
+      - title: "Multivariate analysis of physical activity, sleep, and clinical symptoms: Associations with cortical thickness in youth"
+        authors:
+          - "Giampetruzzi, E., Khosravi, P., Delecourt, B., Lakhlani, D., Kossowsky, J., Winkler, A. M., Zugman, A., Kircanski, K., & Pine, D."
+        publisher: Association for Behavioral and Cognitive Therapies (ABCT) 58th Annual Convention, Philadelphia, PA
+        releaseDate: 2024
+      - title: "PROMISE: Promoting resilience and mental health in educational settings for early childhood"
+        authors:
+          - "Domitrovich, C. E., Charlot-Swilley, D., Gavina, A., Curtis, L., Jones Harden, B., Li, Y., Zuskov, S. F., Hayes, K., & Giampetruzzi, E."
+        publisher: ACF National Research Conference on Early Childhood, Arlington, VA
+        releaseDate: 2024
+      - title: The impact of adverse childhood experiences on substance abuse in adult patients with treatment resistant depression (TRD)
+        authors:
+          - "Giampetruzzi, E., Rice, H., Mandell, A., Tsygankova, V., Laszcz, J., Tan, A. C., McDonald, W. M., Riva Posse, P., Hermida, A. P., Crowell, A., & Hershenberg, R."
+        publisher: Association for Behavioral and Cognitive Therapies (ABCT) 57th Annual Convention, Seattle, WA
+        releaseDate: 2023
+      - title: Childhood trauma and depression severity in patients with treatment resistant depression
+        authors:
+          - "Giampetruzzi, E., Tan, A. C., Riva Posse, P., Hermida, A. P., McDonald, W. M., Crowell, A., & Hershenberg, R."
+        publisher: 29th Annual UCLA Psychology Undergraduate Research Conference, Los Angeles, CA
+        releaseDate: 2022
+
+    Teaching Experience:
+      - company: University of Michigan Summer Debate Institutes
+        position: Senior Instructor
+        location: Ann Arbor, MI
+        start_date: 2020
+        end_date: 2026
+      - company: Barkley Forum for Debate, Emory University
+        position: Public Speaking Instructor
+        location: Atlanta, GA
+        start_date: 2023
+        end_date: 2025
+      - company: Economics-Mathematics Department, Emory University
+        position: Teaching Advisor
+        location: Atlanta, GA
+        start_date: 2020
+        end_date: 2021

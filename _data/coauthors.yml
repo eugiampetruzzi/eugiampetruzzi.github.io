@@ -1,0 +1,6 @@
+# Map coauthor last names to first-name variants and an optional URL to link
+# their name in the publication list. Example:
+#
+# "antonacci":
+#   - firstname: ["Christina", "C."]
+#     url: https://example.com/
