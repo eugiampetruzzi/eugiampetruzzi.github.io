@@ -1,0 +1,44 @@
+---
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you'll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials. */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ----------------------------------------------------------------------------
+   Local override: red accent color instead of the default purple/teal.
+   ------------------------------------------------------------------------- */
+:root {
+  --global-theme-color: #c8102e;
+  --global-hover-color: #c8102e;
+  --global-code-bg-color: rgba(200, 16, 46, 0.05);
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #ff5c5c;
+  --global-hover-color: #ff5c5c;
+  --global-code-bg-color: rgba(255, 92, 92, 0.08);
+}

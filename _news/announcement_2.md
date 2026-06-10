@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Guest on the *Emory Debate Trailblazers* podcast: [Eugenia "Eu" Giampetruzzi & Grace](https://podcasts.apple.com/us/podcast/emory-debate-trailblazers-eugenia-eu-giampetruzzi-grace/id1570666986?i=1000615184315) ([also on Spotify](https://open.spotify.com/episode/3KuH5u77nDfd2vnB0sj6S8)).
+Guest on *Madam Policy*, a podcast by and about women shaping policy and creating history, in the episode ["Emory Debate Trailblazers"](https://podcasts.apple.com/us/podcast/emory-debate-trailblazers-eugenia-eu-giampetruzzi-grace/id1570666986?i=1000615184315) ([also on Spotify](https://open.spotify.com/episode/3KuH5u77nDfd2vnB0sj6S8)).

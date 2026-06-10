@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Psychology</p>
-    <p>Stanford University</p>
-    <p>eugiampe [at] stanford [dot] edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Affective Science in the Department of Psychology at Stanford University, where I am advised by [Ian H. Gotlib](https://snaplab.stanford.edu/) in the Stanford Neurodevelopment, Affect, and Psychopathology (SNAP) Lab. I am also pursuing a minor in Biomedical Data Science in the School of Medicine, and my work is supported by a National Science Foundation Graduate Research Fellowship.
+I'm a PhD student in Affective Science in the Department of Psychology at Stanford, advised by [Ian H. Gotlib](https://snaplab.stanford.edu/) in the Stanford Neurodevelopment, Affect, and Psychopathology (SNAP) Lab. I'm also pursuing a minor in Biomedical Data Science in the School of Medicine, and my work is supported by a National Science Foundation Graduate Research Fellowship.
 
-My research uses wearable devices, passive sensing, and neuroimaging to understand how stress shapes emotional and physiological development across adolescence — and how these signals might be used for the early detection of risk for depression and anxiety. I am especially interested in digital phenotyping: leveraging everyday data from wearables (heart rate, physical activity, sleep) to learn who is at risk, and when, before symptoms emerge.
-
-Before Stanford, I was an Intramural Research Training Award (IRTA) fellow at the National Institute of Mental Health, working with [Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/daniel-pine), and I completed my BA in Psychology at Emory University, where I worked in the Treatment Resistant Depression Program.
+My research uses naturalistic data (medical records, wearable devices, experience sampling) and neuroimaging to study the development of psychiatric (mainly depression) and cardiovascular disorders across adolescence. Before Stanford, I was an Intramural Research Training Award (IRTA) fellow at the National Institute of Mental Health, working with [Daniel Pine](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/daniel-pine). Prior to the NIH, I graduated Phi Beta Kappa and summa cum laude as a Robert W. Woodruff Scholar at Emory University, where I participated in competitive policy debate and worked in the [Treatment Resistant Depression (TRD) Program](https://fuquacenter.org/about-us/our-history/) and [Child and Adolescent Mood Program (CAMP)](http://www.camp-emory.com/).
