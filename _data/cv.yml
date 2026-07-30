@@ -1,6 +1,6 @@
 cv:
   name: Eugenia Giampetruzzi
-  label: PhD Student in Affective Science, Stanford University
+  label: PhD Student, Department of Psychology, Stanford University
   email: eugiampe@stanford.edu
   location: Stanford, CA
   image: ""
@@ -14,7 +14,7 @@ cv:
       - institution: Stanford University
         location: Stanford, CA
         url: https://psychology.stanford.edu/
-        area: Affective Science (PhD); Minor in Biomedical Data Science, School of Medicine
+        area: Psychology (PhD); Minor in Biomedical Data Science, School of Medicine
         studyType: PhD
         start_date: 2025
         end_date: present
