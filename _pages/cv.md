@@ -1,12 +1,14 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/Eugenia_Giampetruzzi_CV.pdf # downloadable PDF (exported from the Word CV)
-cv_format: rendercv # options: rendercv, jsonresume
-description: Curriculum vitae. Use the button above to download a PDF copy.
-toc:
-  sidebar: left
+description:
 ---
+
+<p>
+  <a class="btn btn-primary" href="{{ '/assets/pdf/Eugenia_Giampetruzzi_CV.pdf' | relative_url }}" download>
+    <i class="fa-solid fa-file-pdf"></i> Download CV (PDF)
+  </a>
+</p>
